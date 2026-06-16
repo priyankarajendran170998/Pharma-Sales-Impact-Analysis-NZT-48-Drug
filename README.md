@@ -1,4 +1,4 @@
-# 💊 Pharma Sales Impact Analysis – NZT-48 Drug
+# 💊 Pharma Sales Impact Analysis – NZT- 48 Drug
 
 
 
