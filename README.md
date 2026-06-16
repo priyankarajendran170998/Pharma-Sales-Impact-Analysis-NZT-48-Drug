@@ -130,16 +130,15 @@ The interactive Power BI dashboard includes:
 * Custom tooltip provides an instant sales snapshot for improved user experience.
 
 ---
-
 # 📷 Dashboard Screenshots
 
-### Dashboard Overview
+## Dashboard Overview
 
-* `images/Pharma_Dashboard_Overview.png`
+![Pharma Dashboard Overview](images/Pharma_Dashboard_Overview.png)
 
-### Custom Tooltip
+## Custom Tooltip
 
-* `images/Pharma_Custom_Tooltip.png`
+![Pharma Custom Tooltip](images/Pharma_Custom_Tooltip.png)
 
 ---
 
