@@ -1,62 +1,41 @@
-
-# Pharma Sales Impact Analysis - NZT-48 Drug
+# 💊 Pharma Sales Impact Analysis – NZT-48 Drug
 
 ## 📌 Project Overview
 
-This project analyzes the sales performance of the NZT-48 pharmaceutical drug to evaluate market trends, sales strategies, customer segmentation, and the impact of competitor entry on business performance. The analysis was performed using Python, SQL, and Power BI to generate actionable business insights and interactive visualizations.
+This project presents an end-to-end Data Analytics solution developed to analyze the sales performance of the NZT-48 pharmaceutical drug. The analysis focuses on identifying sales trends, evaluating marketing strategies, measuring competitor impact, and generating actionable business insights using Python, SQL Server, and Power BI.
+
+The project combines data cleaning, exploratory data analysis, SQL-based business queries, and interactive Power BI visualizations to support data-driven decision-making.
 
 ---
 
-## 🎯 Project Objectives
+# 🎯 Business Objective
 
-* Analyze overall sales performance of NZT-48.
-* Identify district-wise and account-type-wise sales trends.
-* Evaluate the effectiveness of different sales strategies.
-* Analyze sales visit patterns and their impact on performance.
-* Measure the impact of competitor entry on sales.
-* Build an interactive Power BI dashboard for business decision-making.
+The primary objective of this project is to evaluate the sales performance of the NZT-48 drug and understand the impact of competitor entry on business outcomes.
+
+The project aims to:
+
+* Analyze overall sales performance
+* Track monthly sales trends
+* Measure competitor impact on sales
+* Compare sales before and after competitor entry
+* Evaluate strategy-wise sales contribution
+* Identify the top-performing sales strategy
+* Generate meaningful business insights through interactive dashboards
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-* Python (Pandas, NumPy, Matplotlib)
+* Python
+* Pandas
+* NumPy
 * SQL Server
 * Power BI
 * Jupyter Notebook
 
 ---
 
-## 📊 Key Analysis Performed
-
-* Data Cleaning and Preprocessing
-* Exploratory Data Analysis (EDA)
-* Monthly Sales Trend Analysis
-* District-wise Sales Analysis
-* Account Type Performance Analysis
-* Strategy Performance Analysis
-* Sales Visit Analysis
-* Competitor Impact Analysis
-* Revenue Loss Estimation
-
----
-
-## 📈 Dashboard Highlights
-
-The Power BI dashboard provides interactive visualizations for:
-
-* Total Sales
-* Sales Trends Over Time
-* District-wise Performance
-* Account Type Distribution
-* Strategy-wise Analysis
-* Sales Visit Metrics
-* Competitor Impact Analysis
-* Business KPIs and Insights
-
----
-
-## 📁 Repository Structure
+# 📂 Repository Structure
 
 ```text
 Pharma-Sales-Impact-Analysis-NZT-48/
@@ -66,16 +45,16 @@ Pharma-Sales-Impact-Analysis-NZT-48/
 │
 ├── images/
 │   ├── Pharma_Dashboard_Overview.png
-│   ├── Pharma_Dashboard_Tooltip.png
+│   ├── Pharma_Custom_Tooltip.png
 │   └── README.md
 │
 ├── powerbi/
-│   ├── Pharma_Sales_Impact_Analysis_NZT_48.pbix
+│   ├── Pharma_Sales_Impact_Analysis.pbix
 │   └── README.md
 │
 ├── python/
-│   ├── Pharma_Data_Cleaning.ipynb
-│   ├── Pharma_Exploratory_Data_Analysis.ipynb
+│   ├── Pharma_Sales_Data_Cleaning.ipynb
+│   ├── Pharma_Sales_Exploratory_Data_Analysis.ipynb
 │   └── README.md
 │
 ├── sql/
@@ -85,39 +64,94 @@ Pharma-Sales-Impact-Analysis-NZT-48/
 │   ├── Pharma_Competitor_Impact_Analysis.sql
 │   └── README.md
 │
+├── LICENSE
 └── README.md
 ```
 
 ---
 
-## 📷 Dashboard Screenshots
+# 📊 Dashboard Features
+
+The interactive Power BI dashboard includes:
+
+* Total Sales KPI
+* Average Sales KPI
+* Sales Performance Impact
+* Sales Change Percentage
+* Top Performing Strategy
+* Monthly Sales Trend
+* Strategy-wise Sales Contribution
+* Before vs After Competitor Entry Analysis
+* Total Sales Comparison
+* Interactive Filters
+* Business Insights Panel
+* Custom Tooltip (Sales Snapshot)
+
+---
+
+# 🔍 Key Analysis Performed
+
+### Python
+
+* Data Cleaning
+* Data Preprocessing
+* Exploratory Data Analysis
+* Data Transformation
+
+### SQL
+
+* Sales Aggregation
+* Monthly Trend Analysis
+* Strategy-wise Analysis
+* Competitor Impact Analysis
+* Revenue Analysis
+* Data Validation Queries
+* Business Query Analysis
+
+### Power BI
+
+* KPI Cards
+* Interactive Dashboard
+* Sales Trend Visualization
+* Strategy Comparison
+* Competitor Impact Visualization
+* Custom Tooltip
+* Business Insights
+
+---
+
+# 📈 Key Business Insights
+
+* Overall sales performance shows a significant change after competitor entry.
+* Strategy 2 emerged as the top-performing strategy based on sales contribution.
+* Monthly sales trends reveal noticeable fluctuations across different periods.
+* Before vs After competitor analysis highlights the business impact on NZT-48 sales.
+* Interactive dashboard elements enable quick identification of important performance indicators.
+* Custom tooltip provides an instant sales snapshot for improved user experience.
+
+---
+
+# 📷 Dashboard Screenshots
 
 ### Dashboard Overview
 
-See the image available in the `images` folder:
+* `images/Pharma_Dashboard_Overview.png`
 
-* `Pharma_Dashboard_Overview.png`
+### Custom Tooltip
 
-### Dashboard Tooltip
-
-See the image available in the `images` folder:
-
-* `Pharma_Dashboard_Tooltip.png`
+* `images/Pharma_Custom_Tooltip.png`
 
 ---
 
-## 📌 Key Insights
+# 🚀 Project Outcome
 
-* Sales trends were analyzed across different time periods and districts.
-* Different account types showed varying sales performance.
-* Strategy effectiveness was evaluated using comparative analysis.
-* Competitor entry had a measurable impact on sales performance.
-* Data-driven insights can support better sales and marketing decisions.
+This project demonstrates an end-to-end data analytics workflow by integrating Python, SQL Server, and Power BI to transform raw pharmaceutical sales data into meaningful business insights and interactive visualizations that support data-driven decision-making.
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
 **Priyanka Rajendran**
 
 Data Analytics Portfolio Project
+
