@@ -1,5 +1,7 @@
 # 💊 Pharma Sales Impact Analysis – NZT-48 Drug
 
+
+
 ## 📌 Project Overview
 
 This project presents an end-to-end Data Analytics solution developed to analyze the sales performance of the NZT-48 pharmaceutical drug. The analysis focuses on identifying sales trends, evaluating marketing strategies, measuring competitor impact, and generating actionable business insights using Python, SQL Server, and Power BI.
@@ -148,9 +150,4 @@ This project demonstrates an end-to-end data analytics workflow by integrating P
 
 ---
 
-# 👩‍💻 Author
-
-**Priyanka Rajendran**
-
-Data Analytics Portfolio Project
 
